@@ -1,2 +1,9 @@
 .venv
 .env
+raw
+.terraform
+.terraform.lock.hcl
+terraform.tfstate.backup
+raw2
+.ipynb_checkpoints
+*.ipynb
